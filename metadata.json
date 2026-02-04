@@ -1,0 +1,5 @@
+{
+  "name": "SwiftMail - Instant Temp Email",
+  "description": "A high-performance temporary email service powered by Mail.tm. Generate disposable addresses, receive emails in real-time, and manage your inbox with a clean, modern interface.",
+  "requestFramePermissions": []
+}
